@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://shahe101.github.io/resume/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shahe101.github.io/blog/first/</loc>
     <lastmod>2016-10-02T15:59:13-04:00</lastmod>
   </url>
@@ -113,19 +108,16 @@
   
   <url>
     <loc>https://shahe101.github.io/tags/resume/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://shahe101.github.io/categories/resume/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://shahe101.github.io/resume/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -139,6 +131,10 @@
     <loc>https://shahe101.github.io/tags/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shahe101.github.io/resume/</loc>
   </url>
   
 </urlset>
